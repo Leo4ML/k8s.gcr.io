@@ -1,0 +1,1 @@
+FROM clusterrolebinding.rbac.authorization.k8s.io/flannel

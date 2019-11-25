@@ -1,0 +1,1 @@
+FROM daemonset.apps/kube-flannel-ds-arm64
