@@ -1,0 +1,1 @@
+FROM podsecuritypolicy.policy/psp.flannel.unprivileged
